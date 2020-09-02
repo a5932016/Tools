@@ -1,3 +1,3 @@
-#檢查網址有防injection,xss
+# 檢查網址有防injection,xss
 
 FuzzURL.exe URL

@@ -1,0 +1,12 @@
+E:\source\2.CSharp\GrayHatCSharp\Chapter2\FuzzUNION\FuzzUNION\bin\Debug\netcoreapp3.1\FuzzUNION.exe
+E:\source\2.CSharp\GrayHatCSharp\Chapter2\FuzzUNION\FuzzUNION\bin\Debug\netcoreapp3.1\FuzzUNION.deps.json
+E:\source\2.CSharp\GrayHatCSharp\Chapter2\FuzzUNION\FuzzUNION\bin\Debug\netcoreapp3.1\FuzzUNION.runtimeconfig.json
+E:\source\2.CSharp\GrayHatCSharp\Chapter2\FuzzUNION\FuzzUNION\bin\Debug\netcoreapp3.1\FuzzUNION.runtimeconfig.dev.json
+E:\source\2.CSharp\GrayHatCSharp\Chapter2\FuzzUNION\FuzzUNION\bin\Debug\netcoreapp3.1\FuzzUNION.dll
+E:\source\2.CSharp\GrayHatCSharp\Chapter2\FuzzUNION\FuzzUNION\bin\Debug\netcoreapp3.1\FuzzUNION.pdb
+E:\source\2.CSharp\GrayHatCSharp\Chapter2\FuzzUNION\FuzzUNION\obj\Debug\netcoreapp3.1\FuzzUNION.AssemblyInfoInputs.cache
+E:\source\2.CSharp\GrayHatCSharp\Chapter2\FuzzUNION\FuzzUNION\obj\Debug\netcoreapp3.1\FuzzUNION.AssemblyInfo.cs
+E:\source\2.CSharp\GrayHatCSharp\Chapter2\FuzzUNION\FuzzUNION\obj\Debug\netcoreapp3.1\FuzzUNION.csproj.CoreCompileInputs.cache
+E:\source\2.CSharp\GrayHatCSharp\Chapter2\FuzzUNION\FuzzUNION\obj\Debug\netcoreapp3.1\FuzzUNION.dll
+E:\source\2.CSharp\GrayHatCSharp\Chapter2\FuzzUNION\FuzzUNION\obj\Debug\netcoreapp3.1\FuzzUNION.pdb
+E:\source\2.CSharp\GrayHatCSharp\Chapter2\FuzzUNION\FuzzUNION\obj\Debug\netcoreapp3.1\FuzzUNION.genruntimeconfig.cache

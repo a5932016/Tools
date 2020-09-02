@@ -1,0 +1,14 @@
+POST /cgi-bin/badstore.cgi?action=cartadd HTTP/1.1
+Host: 192.168.56.102
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: zh-TW,zh;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 49
+Origin: http://192.168.56.102
+Connection: close
+Referer: http://192.168.56.102/cgi-bin/badstore.cgi?action=whatsnew
+Upgrade-Insecure-Requests: 1
+
+cartitem=1000&Add+Items+to+Cart=Add+Items+to+Cart

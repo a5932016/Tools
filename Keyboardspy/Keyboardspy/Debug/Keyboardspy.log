@@ -1,0 +1,4 @@
+﻿  Keyboardspy.cpp
+E:\source\3.C\職業駭客的告白I\Chapter13\Keyboardspy\Keyboardspy\Keyboardspy.cpp(307,1): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+E:\source\3.C\職業駭客的告白I\Chapter13\Keyboardspy\Keyboardspy\Keyboardspy.cpp(318,36): warning C4554: '&': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+  Keyboardspy.vcxproj -> E:\source\3.C\職業駭客的告白I\Chapter13\Keyboardspy\Debug\Keyboardspy.exe

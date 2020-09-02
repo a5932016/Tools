@@ -1,0 +1,15 @@
+POST /Vulnerable.ashx HTTP/1.1
+Host: 127.0.0.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0
+Accept: */*
+Accept-Language: zh-TW,zh;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/json; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Content-Length: 165
+Origin: http://127.0.0.1
+Connection: close
+Referer: http://127.0.0.1/
+Cookie: ASP.NET_SessionId=49E8DFF448248230EF9D56A3
+
+{"username":"aaa","password":"aaa","age":23,"line1":"123","line2":"","city":"Taiwan","state":"a","zip":null,"first":"c","middle":"","last":"z","method":"create"}

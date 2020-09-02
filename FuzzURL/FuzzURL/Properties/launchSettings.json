@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FuzzURL": {
+      "commandName": "Project",
+      "commandLineArgs": "http://192.168.56.102/cgi-bin/badstore.cgi?action=whatsnew"
+    }
+  }
+}

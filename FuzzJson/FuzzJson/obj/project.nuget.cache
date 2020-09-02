@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NivjbfDITxRnQdYfsJAAKxEBgui2MAgNcy7kz9RIygcc7pXkHkZ8lBuQovH/1ItH+/Q1EdHhEbeGmrIWkvKDvA==",
+  "success": true,
+  "projectFilePath": "E:\\source\\15.工具\\Tools\\FuzzJson\\FuzzJson\\FuzzJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json.schema\\3.0.13\\newtonsoft.json.schema.3.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

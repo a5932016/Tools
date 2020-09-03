@@ -4,4 +4,4 @@ FuzzUNION.exe URL ColumnCount Columns Table Method OtherMethod
 
 # Example
 
-http://localhost/cgi-bin/badstore.cgi 4 email,passwd badstoredb.userdb searchquery "&action=search"
+FuzzUNION.exe http://localhost/cgi-bin/badstore.cgi 4 email,passwd badstoredb.userdb searchquery "&action=search"

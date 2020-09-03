@@ -1,0 +1,12 @@
+E:\source\2.CSharp\GrayHatCSharp\Chapter2\FuzzRLIKE\FuzzRLIKE\bin\Debug\netcoreapp3.1\FuzzRLIKE.exe
+E:\source\2.CSharp\GrayHatCSharp\Chapter2\FuzzRLIKE\FuzzRLIKE\bin\Debug\netcoreapp3.1\FuzzRLIKE.deps.json
+E:\source\2.CSharp\GrayHatCSharp\Chapter2\FuzzRLIKE\FuzzRLIKE\bin\Debug\netcoreapp3.1\FuzzRLIKE.runtimeconfig.json
+E:\source\2.CSharp\GrayHatCSharp\Chapter2\FuzzRLIKE\FuzzRLIKE\bin\Debug\netcoreapp3.1\FuzzRLIKE.runtimeconfig.dev.json
+E:\source\2.CSharp\GrayHatCSharp\Chapter2\FuzzRLIKE\FuzzRLIKE\bin\Debug\netcoreapp3.1\FuzzRLIKE.dll
+E:\source\2.CSharp\GrayHatCSharp\Chapter2\FuzzRLIKE\FuzzRLIKE\bin\Debug\netcoreapp3.1\FuzzRLIKE.pdb
+E:\source\2.CSharp\GrayHatCSharp\Chapter2\FuzzRLIKE\FuzzRLIKE\obj\Debug\netcoreapp3.1\FuzzRLIKE.AssemblyInfoInputs.cache
+E:\source\2.CSharp\GrayHatCSharp\Chapter2\FuzzRLIKE\FuzzRLIKE\obj\Debug\netcoreapp3.1\FuzzRLIKE.AssemblyInfo.cs
+E:\source\2.CSharp\GrayHatCSharp\Chapter2\FuzzRLIKE\FuzzRLIKE\obj\Debug\netcoreapp3.1\FuzzRLIKE.csproj.CoreCompileInputs.cache
+E:\source\2.CSharp\GrayHatCSharp\Chapter2\FuzzRLIKE\FuzzRLIKE\obj\Debug\netcoreapp3.1\FuzzRLIKE.dll
+E:\source\2.CSharp\GrayHatCSharp\Chapter2\FuzzRLIKE\FuzzRLIKE\obj\Debug\netcoreapp3.1\FuzzRLIKE.pdb
+E:\source\2.CSharp\GrayHatCSharp\Chapter2\FuzzRLIKE\FuzzRLIKE\obj\Debug\netcoreapp3.1\FuzzRLIKE.genruntimeconfig.cache

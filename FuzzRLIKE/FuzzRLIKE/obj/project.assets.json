@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\source\\15.工具\\Tools\\FuzzUNION\\FuzzUNION\\FuzzUNION.csproj",
-      "projectName": "FuzzUNION",
-      "projectPath": "E:\\source\\15.工具\\Tools\\FuzzUNION\\FuzzUNION\\FuzzUNION.csproj",
+      "projectUniqueName": "E:\\source\\2.CSharp\\GrayHatCSharp\\Chapter2\\FuzzRLIKE\\FuzzRLIKE\\FuzzRLIKE.csproj",
+      "projectName": "FuzzRLIKE",
+      "projectPath": "E:\\source\\2.CSharp\\GrayHatCSharp\\Chapter2\\FuzzRLIKE\\FuzzRLIKE\\FuzzRLIKE.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\source\\15.工具\\Tools\\FuzzUNION\\FuzzUNION\\obj\\",
+      "outputPath": "E:\\source\\2.CSharp\\GrayHatCSharp\\Chapter2\\FuzzRLIKE\\FuzzRLIKE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

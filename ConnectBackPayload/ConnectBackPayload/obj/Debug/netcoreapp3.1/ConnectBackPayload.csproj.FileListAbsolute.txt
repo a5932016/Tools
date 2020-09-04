@@ -1,0 +1,12 @@
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\ConnectBackPayload\ConnectBackPayload\bin\Debug\netcoreapp3.1\ConnectBackPayload.exe
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\ConnectBackPayload\ConnectBackPayload\bin\Debug\netcoreapp3.1\ConnectBackPayload.deps.json
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\ConnectBackPayload\ConnectBackPayload\bin\Debug\netcoreapp3.1\ConnectBackPayload.runtimeconfig.json
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\ConnectBackPayload\ConnectBackPayload\bin\Debug\netcoreapp3.1\ConnectBackPayload.runtimeconfig.dev.json
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\ConnectBackPayload\ConnectBackPayload\bin\Debug\netcoreapp3.1\ConnectBackPayload.dll
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\ConnectBackPayload\ConnectBackPayload\bin\Debug\netcoreapp3.1\ConnectBackPayload.pdb
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\ConnectBackPayload\ConnectBackPayload\obj\Debug\netcoreapp3.1\ConnectBackPayload.AssemblyInfoInputs.cache
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\ConnectBackPayload\ConnectBackPayload\obj\Debug\netcoreapp3.1\ConnectBackPayload.AssemblyInfo.cs
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\ConnectBackPayload\ConnectBackPayload\obj\Debug\netcoreapp3.1\ConnectBackPayload.csproj.CoreCompileInputs.cache
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\ConnectBackPayload\ConnectBackPayload\obj\Debug\netcoreapp3.1\ConnectBackPayload.dll
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\ConnectBackPayload\ConnectBackPayload\obj\Debug\netcoreapp3.1\ConnectBackPayload.pdb
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\ConnectBackPayload\ConnectBackPayload\obj\Debug\netcoreapp3.1\ConnectBackPayload.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "SoapFuzzer": {
+      "commandName": "Project"
+    }
+  }
+}

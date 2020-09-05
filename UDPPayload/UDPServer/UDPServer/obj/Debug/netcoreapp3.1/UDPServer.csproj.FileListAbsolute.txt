@@ -1,0 +1,12 @@
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\UDPPayload\UDPServer\UDPServer\bin\Debug\netcoreapp3.1\UDPServer.exe
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\UDPPayload\UDPServer\UDPServer\bin\Debug\netcoreapp3.1\UDPServer.deps.json
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\UDPPayload\UDPServer\UDPServer\bin\Debug\netcoreapp3.1\UDPServer.runtimeconfig.json
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\UDPPayload\UDPServer\UDPServer\bin\Debug\netcoreapp3.1\UDPServer.runtimeconfig.dev.json
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\UDPPayload\UDPServer\UDPServer\bin\Debug\netcoreapp3.1\UDPServer.dll
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\UDPPayload\UDPServer\UDPServer\bin\Debug\netcoreapp3.1\UDPServer.pdb
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\UDPPayload\UDPServer\UDPServer\obj\Debug\netcoreapp3.1\UDPServer.AssemblyInfoInputs.cache
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\UDPPayload\UDPServer\UDPServer\obj\Debug\netcoreapp3.1\UDPServer.AssemblyInfo.cs
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\UDPPayload\UDPServer\UDPServer\obj\Debug\netcoreapp3.1\UDPServer.csproj.CoreCompileInputs.cache
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\UDPPayload\UDPServer\UDPServer\obj\Debug\netcoreapp3.1\UDPServer.dll
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\UDPPayload\UDPServer\UDPServer\obj\Debug\netcoreapp3.1\UDPServer.pdb
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\UDPPayload\UDPServer\UDPServer\obj\Debug\netcoreapp3.1\UDPServer.genruntimeconfig.cache

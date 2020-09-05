@@ -1,0 +1,12 @@
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\UDPPayload\UDPClient\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.exe
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\UDPPayload\UDPClient\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.deps.json
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\UDPPayload\UDPClient\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.runtimeconfig.json
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\UDPPayload\UDPClient\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.runtimeconfig.dev.json
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\UDPPayload\UDPClient\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.dll
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\UDPPayload\UDPClient\UDPClient\bin\Debug\netcoreapp3.1\UDPClient.pdb
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\UDPPayload\UDPClient\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.AssemblyInfoInputs.cache
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\UDPPayload\UDPClient\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.AssemblyInfo.cs
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\UDPPayload\UDPClient\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.csproj.CoreCompileInputs.cache
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\UDPPayload\UDPClient\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.dll
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\UDPPayload\UDPClient\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.pdb
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\UDPPayload\UDPClient\UDPClient\obj\Debug\netcoreapp3.1\UDPClient.genruntimeconfig.cache

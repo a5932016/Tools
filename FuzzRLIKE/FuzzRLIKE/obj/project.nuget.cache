@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a+tvVmU1HoLJml5kzPxqVcprTyPtNGsznlhk6kQtcO503cJxSdKdHhcbrSEM8C8rUus1JIOVYxH+2xC485nQxA==",
+  "dgSpecHash": "FlY0KVeaaCHqQIxu/DeYcDnf7T5XU6VbSkU/S9lVv8xnXHZ1MyoBEUJEdEs5JjVRIbWOXfgTZ8WGNmm5/c0sHw==",
   "success": true,
-  "projectFilePath": "E:\\source\\2.CSharp\\GrayHatCSharp\\Chapter2\\FuzzRLIKE\\FuzzRLIKE\\FuzzRLIKE.csproj",
+  "projectFilePath": "E:\\source\\15.工具\\Tools\\FuzzRLIKE\\FuzzRLIKE\\FuzzRLIKE.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

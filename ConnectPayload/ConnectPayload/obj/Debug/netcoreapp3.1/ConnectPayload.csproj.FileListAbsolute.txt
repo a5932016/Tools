@@ -1,0 +1,12 @@
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\ConnectPayload\ConnectPayload\bin\Debug\netcoreapp3.1\ConnectPayload.exe
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\ConnectPayload\ConnectPayload\bin\Debug\netcoreapp3.1\ConnectPayload.deps.json
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\ConnectPayload\ConnectPayload\bin\Debug\netcoreapp3.1\ConnectPayload.runtimeconfig.json
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\ConnectPayload\ConnectPayload\bin\Debug\netcoreapp3.1\ConnectPayload.runtimeconfig.dev.json
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\ConnectPayload\ConnectPayload\bin\Debug\netcoreapp3.1\ConnectPayload.dll
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\ConnectPayload\ConnectPayload\bin\Debug\netcoreapp3.1\ConnectPayload.pdb
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\ConnectPayload\ConnectPayload\obj\Debug\netcoreapp3.1\ConnectPayload.AssemblyInfoInputs.cache
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\ConnectPayload\ConnectPayload\obj\Debug\netcoreapp3.1\ConnectPayload.AssemblyInfo.cs
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\ConnectPayload\ConnectPayload\obj\Debug\netcoreapp3.1\ConnectPayload.csproj.CoreCompileInputs.cache
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\ConnectPayload\ConnectPayload\obj\Debug\netcoreapp3.1\ConnectPayload.dll
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\ConnectPayload\ConnectPayload\obj\Debug\netcoreapp3.1\ConnectPayload.pdb
+E:\source\2.CSharp\GrayHatCSharp\Chapter4\ConnectPayload\ConnectPayload\obj\Debug\netcoreapp3.1\ConnectPayload.genruntimeconfig.cache
